@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the sleeper Big Dick Dynasty League.</p>
+  <p>Welcome to the Sleeper Fantasy redraft 2025 league. Good luck to everyone throughout the rest of the season.</p>
   <p>
 `;
 
